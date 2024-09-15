@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#7792E3"                 # Custom primary color (for buttons and inputs)
+backgroundColor = "#E6F0FA"              # Baby blue background
+secondaryBackgroundColor = "#FFFFFF"     # White background for widgets
+textColor = "#31333F"                    # Dark gray text for readability
+font = "sans serif"                      # Default font family (change to "serif" or "monospace" if needed)
