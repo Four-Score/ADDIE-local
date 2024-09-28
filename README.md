@@ -10,8 +10,6 @@ Easily manage and create events using natural language input or file uploads.
 - Input thoughts or upload files, and ADDIE will automatically create calendar events.
 - Retrieve upcoming meetings and events with simple commands.
 
-_**Screenshot**: Add relevant screenshot here._
-
 ---
 
 ### 2. **Google Meet Transcript Analyzer**
@@ -20,8 +18,6 @@ Upload Google Meet transcripts and receive AI-generated summaries of the meeting
 - Extract key points, action items, and deadlines.
 - Save time by reviewing concise summaries instead of watching the entire meeting.
 
-_**Screenshot**: Add relevant screenshot here._
-
 ---
 
 ### 3. **Document Management with Google Drive**
@@ -29,18 +25,6 @@ Connect to Google Drive to fetch, categorize, and summarize your documents.
 
 - Prioritize documents into high, medium, and low categories.
 - Summarize key information to reduce information overload.
-
-_**Screenshot**: Add relevant screenshot here._
-
----
-
-### 4. **Meeting Management**
-Generate Google Meet links and upload meeting transcripts for quick analysis.
-
-- Create new Google Meet links for scheduling meetings.
-- Upload and analyze meeting transcripts to quickly extract action items and key insights.
-
-_**Screenshot**: Add relevant screenshot here._
 
 ---
 
