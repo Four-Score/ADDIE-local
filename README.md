@@ -97,7 +97,7 @@ NOTE: When you run the app the very first time, you will have to authenticate wi
 
 ADDIE integrates Google OAuth 2.0 for secure user authentication, allowing users to sign in with their Google accounts and interact with services like Google Calendar and Drive. The app securely manages access and refresh tokens, ensuring persistent sessions. Test users are added for streamlined development. Upon successful authentication, users are notified, and the app seamlessly integrates Google API services.
 
-![Google OAuth UI](![image](https://github.com/user-attachments/assets/4951f5d1-6327-49c0-be1e-366d8dbc4bd1)
+![image](https://github.com/user-attachments/assets/4951f5d1-6327-49c0-be1e-366d8dbc4bd1)
 
 ---
 
@@ -107,8 +107,8 @@ This feature allows users to generate new Google Meet links using Google API and
 
 The Transcript Analysis feature leverages advanced AI through Crew AI agents and Composio to automatically extract actionable insights from meeting transcripts. By simply uploading a transcript, the tool intelligently identifies key points, action items, and deadlines, providing a comprehensive meeting summary within seconds. This significantly reduces the time spent on post-meeting documentation and ensures that critical details never get overlooked. Whether managing complex projects or organizing routine team meetings, this feature brings efficiency to the next level by transforming raw meeting data into structured, actionable insights.
 
-![Meeting Transcript UI](![image](https://github.com/user-attachments/assets/8b1253ee-6544-49b4-a2ad-ca75b11857dd))  
-![Meeting Summary Output](![image](https://github.com/user-attachments/assets/79bab224-33d0-4117-b309-8e8425670569))
+![image](https://github.com/user-attachments/assets/8b1253ee-6544-49b4-a2ad-ca75b11857dd)
+![image](https://github.com/user-attachments/assets/79bab224-33d0-4117-b309-8e8425670569)
 
 ---
 
@@ -118,8 +118,8 @@ The **Google Calendar Management** feature allows users to seamlessly manage the
 
 You can also view all scheduled events for a specific date or month in your Google Calendar, providing an organized and efficient way to manage your time and tasks.
 
-![Calendar Management UI]![image](https://github.com/user-attachments/assets/f85cb282-8fc3-401a-9ab2-dd43f942d1cf)
-![Google Calendar Events]![image](https://github.com/user-attachments/assets/d6c4eeda-c698-4256-adc1-fb18e350aff8)
+![image](https://github.com/user-attachments/assets/f85cb282-8fc3-401a-9ab2-dd43f942d1cf)
+![image](https://github.com/user-attachments/assets/d6c4eeda-c698-4256-adc1-fb18e350aff8)
 
 ---
 
@@ -127,7 +127,7 @@ You can also view all scheduled events for a specific date or month in your Goog
 
 The **Email Management** feature allows users to generate detailed reports of their latest emails, selecting between 5 to 50 emails via a drop-down menu. Powered by Crew AI agents and the Gmail API, the tool efficiently fetches and summarizes the contents of your emails, prioritizing them based on their importance. This helps users quickly identify urgent or high-priority emails, improving productivity and ensuring that no critical emails are missed. Whether you're managing a busy inbox or sorting through recent communications, this feature simplifies the process by highlighting which emails need immediate attention.
 
-![Email Management UI](![image](https://github.com/user-attachments/assets/42e0e971-5c5e-47c7-a757-0553e2026106))  
+![image](https://github.com/user-attachments/assets/42e0e971-5c5e-47c7-a757-0553e2026106) 
 
 ---
 
@@ -135,8 +135,8 @@ The **Email Management** feature allows users to generate detailed reports of th
 
 The **Google Drive Report Generator** is a powerful tool that allows users to generate detailed reports from their Google Drive folders. By simply providing a Google Drive folder link, the tool, powered by Crew AI agents and the Google Drive API, extracts relevant files based on user-defined criteria. It then summarizes the documents and prioritizes them as low, medium, or high priority. This feature helps users efficiently sift through large sets of files, filtering and prioritizing those that need immediate attention. It’s ideal for organizing critical documents, ensuring that important files are never missed, and enhancing productivity.
 
-![Google Drive Report Generator UI](![image](https://github.com/user-attachments/assets/59b37cd2-a53b-4b96-ac56-cd4252a12593))  
-![Document Summary Output](![image](https://github.com/user-attachments/assets/83cc0996-1398-4616-99cb-d21c8390c1f9))
+![image](https://github.com/user-attachments/assets/59b37cd2-a53b-4b96-ac56-cd4252a12593)  
+![image](https://github.com/user-attachments/assets/83cc0996-1398-4616-99cb-d21c8390c1f9)
 
 ---
 
