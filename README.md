@@ -118,8 +118,8 @@ The **Google Calendar Management** feature allows users to seamlessly manage the
 
 You can also view all scheduled events for a specific date or month in your Google Calendar, providing an organized and efficient way to manage your time and tasks.
 
-![Calendar Management UI](![image](https://github.com/user-attachments/assets/f85cb282-8fc3-401a-9ab2-dd43f942d1cf))  
-![Google Calendar Events](![image](https://github.com/user-attachments/assets/d6c4eeda-c698-4256-adc1-fb18e350aff8))
+![Calendar Management UI]![image](https://github.com/user-attachments/assets/f85cb282-8fc3-401a-9ab2-dd43f942d1cf)
+![Google Calendar Events]![image](https://github.com/user-attachments/assets/d6c4eeda-c698-4256-adc1-fb18e350aff8)
 
 ---
 
