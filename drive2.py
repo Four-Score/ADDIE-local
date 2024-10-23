@@ -103,7 +103,7 @@ def extract_filtered_files(folder_link: str, query: str) -> dict:
     gdrive_agent = Agent(
         role='Google Drive Files Extractor', 
         goal=f"""Extract list of Google Drive Files from this folder {folder_link} and return the names and ids of those files which are related to: {query}. 
-                Use the tool provided to you for files extraction and your own reasoning skills for files filtering. Invoking the tool  just once
+                Use the tool provided to you for files extraction and ONLY your own reasoning skills for files filtering (no tool needed). Invoking the tool  just once
                 is enough to extract the files. Don't invoke the tool multiple times.""",
         verbose=True,
         memory=True,
