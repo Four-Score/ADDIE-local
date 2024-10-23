@@ -28,10 +28,18 @@ Connect to Google Drive to fetch, categorize, and summarize your documents.
 
 ---
 
+### 3. **Email Management with Gmail API**
+Connect to Gmail to fetch, categorize, and prioritize your emails.
+
+- Prioritize emails into high, medium, and low categories.
+- Summarize key information to reduce information overload.
+
+---
+
 ## **Tech Stack**
 - **Llama 3.1 70B** for advanced NLP capabilities.
 - **Streamlit** for building the user-friendly interface.
-- **Google API** for Calendar and Drive integrations.
+- **Google API** for Calendar, Gmail and Drive integrations.
 - **Composio** for Google Meet transcript processing.
 
 ## **Installation**
@@ -62,4 +70,4 @@ Connect to Google Drive to fetch, categorize, and summarize your documents.
 
 1. **Authenticate with Google**: Log in to your Google account to integrate Calendar and Drive. Your account should be added as a test user - email aera.tech.ai@gmail.com to be added as a test user so you can use the app's features.
 2. **Upload Files**: Upload meeting transcripts, documents, or input text to generate events or summaries.
-3. **Analyze and Organize**: Let ADDIE automatically generate insights and organize your tasks, meetings, and documents.
+3. **Analyze and Organize**: Let ADDIE automatically generate insights and organize your tasks, emails, meetings, and documents.
