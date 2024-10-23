@@ -53,7 +53,7 @@ with st.container():
     google_drive_link = st.text_input("Google Drive Folder Link", placeholder="Enter your Google Drive folder link here")
 
     # Input field for file types
-    file_types = st.text_input("Which files do you want reports about?", placeholder="e.g., PDF, Excel, Word, etc.")
+    file_types = st.text_input("Which files do you want reports about?", placeholder="Enter the topic of the file(s)")
 
     # Submit button
     submit_button = st.button("Generate Reports", key="submit", help="Click to generate reports for the selected files")
