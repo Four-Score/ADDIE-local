@@ -6,3 +6,6 @@ google-api-python-client
 PyPDF2
 docx2txt
 python-dotenv
+composio_crewai
+crewai_tools
+beautifulsoup4
