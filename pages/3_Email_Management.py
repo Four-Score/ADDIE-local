@@ -48,7 +48,7 @@ st.markdown('<p class="title-text">Generate Emails Report</p>', unsafe_allow_htm
 with st.container():
     num_emails = st.selectbox(
         "How many latest emails do you want to generate a report of?",
-        options=[5, 10, 20, 30, 40, 50],
+        options=[2, 5, 10, 20, 30, 40, 50],
         index=0,
         key="email_count"
     )
